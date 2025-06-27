@@ -41,7 +41,8 @@ Build a machine learning model to perform **regression** based on a real dataset
 ![image](https://github.com/user-attachments/assets/d825d4e4-0f04-4934-afb4-715f8efa6254)
 ![image](https://github.com/user-attachments/assets/c862e85b-3a89-4e1f-a425-d79f23d46928)
 ![image](https://github.com/user-attachments/assets/d9e15055-49bf-455e-b2d7-7c716b51ac9c)
-![image](https://github.com/user-attachments/assets/3bf685ea-222d-4d18-9b2a-4d42755f4e47)
+![image](https://github.com/user-attachments/assets/2036f61a-a0d8-40cc-850d-3941c0d59e0a)
+
 
 
 ## D. The file summarizing the prediction models includes the Adjusted R-Squared, R-Squared, RMSE and Time Taken parameters and prediction execution time based on this dataset. 
