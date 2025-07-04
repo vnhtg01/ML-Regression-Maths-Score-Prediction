@@ -20,7 +20,7 @@ Train models and evaluate mainly based on `R2` parameter (above `0.8` is a good 
   - [A.7. Model Deployment](#a7-model-deployment--not-included)
 - [B. Report File extracted by ydata-profiling](#breport-file-extracted-by-ydata-profiling)
 - [C. Prediction Model Summary](#c-the-file-summarizing-the-prediction-models-includes-the-adjusted-r-squared-r-squared-rmse-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
-  - [C.1. Models sorted by speed and accuracy](#c1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-r-squared-parameter)
+  - [C.1. List of trained models sorted](#c1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-r-squared-parameter)
   - [C.2. Top 5 as horizontal bar charts](#c2-top-5-as-horizontal-bar-charts)
 - [D. Results](#d-results)
 
@@ -75,7 +75,7 @@ Train models and evaluate mainly based on `R2` parameter (above `0.8` is a good 
 ![image](https://github.com/user-attachments/assets/e8390853-11c4-4b6e-9ec2-1f2b40524920)
 
 
-# E. Results
+# D. Results
 - All models were trained and evaluated to identify the best-performing one for this regression task.
 - Reusability on other datasets thanks to calling the pickle library to store the models.
 
