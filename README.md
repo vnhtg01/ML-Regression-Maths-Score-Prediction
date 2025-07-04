@@ -1,4 +1,4 @@
-<img width="798" alt="image" src="https://github.com/user-attachments/assets/a8ab9a66-2b02-455e-8c68-193fea99cefc" />
+<img width="1050" alt="image" src="https://github.com/user-attachments/assets/a8ab9a66-2b02-455e-8c68-193fea99cefc" />
 
 <h1 align="center">ML Regression Project For Maths Score Prediction</h1>
 
